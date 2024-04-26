@@ -297,7 +297,7 @@ body,
   padding: 0 0 0 4px;
   line-height: var(--window-title-bar);
   font-size: 0.9em;
-  color: var(--text-normal);
+  color: pink;
 }
 .wordmark__5b8c9.wordmarkWindows_ffbc5e:before, .wordmark__5b8c9.wordmarkWindows_ffbc5e:after {
   position: relative;
