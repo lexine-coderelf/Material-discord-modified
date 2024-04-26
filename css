@@ -305,11 +305,11 @@ body,
   height: 22px;
 }
 .wordmark__5b8c9.wordmarkWindows_ffbc5e:before {
-  content: "Nelly";
+  content: "Nelly &";
   font-weight: 700;
 }
 .wordmark__5b8c9.wordmarkWindows_ffbc5e:after {
-  content: "Lexi";
+  content: " Lexi.cord";
 }
 .wordmark__5b8c9.wordmarkWindows_ffbc5e svg {
   display: none;
